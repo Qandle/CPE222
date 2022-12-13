@@ -1,0 +1,9 @@
+# virtual environment
+\venv
+
+# history or log
+hardware.asc
+hardware.bin
+hardware.json
+abc.history
+.sconsign.dblite
